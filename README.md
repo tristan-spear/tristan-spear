@@ -1,6 +1,6 @@
 
 <hr />
-committed to pushing the limits, branching out, and merging dreams my with reality
+committed to pushing the limits, branching out, merging dreams my with reality, and gitting better everyday
 <hr />
 <!--
 **tristan-spear/tristan-spear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
