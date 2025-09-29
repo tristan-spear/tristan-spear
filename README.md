@@ -1,5 +1,7 @@
-## Hi there 👋
 
+<hr />
+Currently building full stack web apps, grinding leetcode, and learning C
+<hr />
 <!--
 **tristan-spear/tristan-spear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
