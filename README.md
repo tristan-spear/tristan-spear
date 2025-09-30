@@ -9,7 +9,7 @@ committed to:
     branching out
   </li>
   <li>
-    merging dreams my with reality
+    merging dreams with reality
   </li>
   <li>
     gitting better everyday
