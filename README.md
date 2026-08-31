@@ -1,5 +1,17 @@
+# Hi, I'm Tristan Spear 🫡
 
-<hr />
+## 💻🧙 Software Engineer
+
+<div align="center">
+
+### ✴︎ **[→ View My Portfolio ←](https://tristanspear.dev)** ✴︎
+
+</div>
+
+---
+
+
+<!-- <hr />
 committed to:
 <ul>
   <li>
@@ -15,7 +27,7 @@ committed to:
     gitting better everyday
   </li>
 </ul>
-<hr />
+<hr /> -->
 <!--
 **tristan-spear/tristan-spear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
