@@ -10,6 +10,26 @@
 
 ---
 
+### About Me
+- 💻 Software Engineer passionate about building impactful applications
+- 🎓 Computer & Electrical Engineering Student
+- 🔬 Researcher & Creative Thinker
+- 👥 Experience at 9 companies
+
+### Tech Stack
+`JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Swift`
+
+### Experience
+Worked as a SWE at nearly 10 leading companies including **Urban Outfitters**, **Abercrombie & Fitch**, **University of Washington**, and more.
+
+---
+
+<div align="center">
+
+**[Portfolio](https://tristanspear.dev)** • **[LinkedIn](https://linkedin.com/in/tristan-spear)** • **[Email](mailto:tspear1704@gmail.com)**
+
+</div>
+
 
 <!-- <hr />
 committed to:
