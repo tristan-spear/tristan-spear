@@ -12,15 +12,15 @@
 
 ### About Me
 - 💻 Software Engineer passionate about building impactful applications
-- 🎓 Computer & Electrical Engineering Student
+- 🎓 Computer Science Student @ Cal Poly SLO 🐎
 - 🔬 Researcher & Creative Thinker
-- 👥 Experience at 9 companies
+- 👥 Experience at 5 companies
 
 ### Tech Stack
-`JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Swift`
+`JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Next.js` `Java` `Spring` `Django`
 
 ### Experience
-Worked as a SWE at nearly 10 leading companies including **Urban Outfitters**, **Abercrombie & Fitch**, **University of Washington**, and more.
+Worked as a SWE at 5 organizations including **U.S. Space Force**, **SESLOC Credit Union**, **Hack4Impact**, and more.
 
 ---
 
