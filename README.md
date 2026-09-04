@@ -12,7 +12,7 @@
 
 ### About Me
 - 💻 Software Engineer passionate about building impactful applications
-- 🎓 Computer Science Student @ Cal Poly SLO 🐎
+- 🎓 Computer Science Student
 - 🔬 Researcher & Creative Thinker
 - 👥 Experience at 5 companies
 
