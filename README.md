@@ -29,7 +29,7 @@ Worked as a SWE at over 5 organizations including **U.S. Space Force**, **AWS Dx
 **[Portfolio](https://tristanspear.dev)** • **[LinkedIn](https://linkedin.com/in/tristan-spear)** • **[Email](mailto:tspear1704@gmail.com)**
 
 </div>
-
+ 
 
 <!-- <hr />
 committed to:
