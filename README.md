@@ -17,7 +17,7 @@
 - 👥 Experience at 5+ companies
 
 ### Tech Stack
-`JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Next.js` `Java` `Spring` `Django`
+`JavaScript` `TypeScript` `React` `Node.js` `Express.js` `Next.js` `Python` `FastAPI` `Django` `Java` `Spring` `Spring Boot`
 
 ### Experience
 Worked as a SWE at over 5 organizations including **U.S. Space Force**, **AWS DxHub**, **SESLOC Credit Union**, **Habitat4Humanity**, and more.
