@@ -20,7 +20,7 @@
 `JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Next.js` `Java` `Spring` `Django`
 
 ### Experience
-Worked as a SWE at over 5 organizations including **U.S. Space Force**, **AWS DxHub**, **SESLOC Credit Union**, **Hack4Impact**, and more.
+Worked as a SWE at over 5 organizations including **U.S. Space Force**, **AWS DxHub**, **SESLOC Credit Union**, **Habitat4Humanity**, and more.
 
 ---
 
