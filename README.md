@@ -14,7 +14,7 @@
 - 💻 Software Engineer passionate about building impactful applications
 - 🎓 Computer Science Student
 - 🔬 Researcher & Creative Thinker
-- 👥 Experience at 8+ companies
+- 👥 Experience at 5+ companies
 
 ### Tech Stack
 `JavaScript` `React` `Node.js` `Python` `Java` `TypeScript` `Express.js` `Next.js` `Java` `Spring` `Django`
